@@ -1,0 +1,42 @@
+# Uploads directory (ignore all files)
+uploads/
+
+# Cache files
+cache/
+*.cache
+
+# Backups
+backups/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temporary
+*.tmp
+*.temp
+~*
+
+# Database backups
+*.sql
+*.bak
+
+# Session data
+sessions/
